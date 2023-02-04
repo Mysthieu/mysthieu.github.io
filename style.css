@@ -1,0 +1,79 @@
+.img-background
+{
+	background-image: url(img/image1.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background2
+{
+	background-image: url(img/image2.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background3
+{
+	background-image: url(img/image3.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.titre1
+{
+	color: red;
+	font-size: 25px;
+	text-align: center;
+	width: 500px:
+}
+.fond-vert
+{
+	background-color: rgb(60,175,60);
+}
+.bouton1
+{
+	width : 300px;
+	height: 100px;
+	margin: 100px 350px;
+	font-style: bold;
+	font-size: 15px;
+	color: rgb(15,0,15);
+	background-color: rgb(225,175,0);
+}
+.bouton2
+{
+	width : 300px;
+	height: 100px;
+	margin: 100px 0px 0px 0px;
+	font-style: bold;
+	font-size: 15px;
+	color: rgb(15,0,15);
+	background-color: rgb(225,175,0);
+}
+.bouton3
+{
+	width : 300px;
+	height: 100px;
+	margin: 100px 0px 0px 0px;
+	font-style: bold;
+	font-size: 15px;
+	color: rgb(15,0,15);
+	background-color: rgb(225,175,0);
+	float: right;
+}
+.introduction
+{
+	text-align: justify;
+	margin: 25px;
+	font-size: 23px;
+	color: rgb(50,100,250);
+}
+.paragraphe
+{
+	text-align: justify;
+	padding: 25px;
+	font-size: 25px;
+	color: rgb(50,100,250);
+}
+
+
