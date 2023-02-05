@@ -19,12 +19,62 @@
 	height: 1000px;
 	margin: 0px auto;
 }
+.img-background4
+{
+	background-image: url(img/image4.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background5
+{
+	background-image: url(img/image5.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background6
+{
+	background-image: url(img/image6.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background7
+{
+	background-image: url(img/image7.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background8
+{
+	background-image: url(img/image8.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background9
+{
+	background-image: url(img/image9.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+.img-background10
+{
+	background-image: url(img/image10.png);
+	width : 1000px;
+	height: 1000px;
+	margin: 0px auto;
+}
+
 .titre1
 {
 	color: red;
 	font-size: 25px;
 	text-align: center;
-	width: 500px:
+	width: 500px;
 }
 .fond-vert
 {
