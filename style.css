@@ -116,14 +116,23 @@
 	text-align: justify;
 	margin: 25px;
 	font-size: 23px;
-	color: rgb(50,100,250);
+	text-shadow: 2px 0  rgb(216, 200, 131), 2px 2px 0 rgb(216, 200, 131), 0 2px 0 rgb(216, 200, 131), -2px 2px 0 rgb(216, 200, 131), -2px 0 0 rgb(216, 200, 131), -2px -2px 0 rgb(216, 200, 131), 0 -2px 0 rgb(216, 200, 131);
+	color: rgb(0, 0, 0);
 }
 .paragraphe
 {
 	text-align: justify;
 	padding: 25px;
 	font-size: 25px;
-	color: rgb(50,100,250);
+	text-shadow: 2px 0  rgb(216, 200, 131), 2px 2px 0 rgb(216, 200, 131), 0 2px 0 rgb(216, 200, 131), -2px 2px 0 rgb(216, 200, 131), -2px 0 0 rgb(216, 200, 131), -2px -2px 0 rgb(216, 200, 131), 0 -2px 0 rgb(216, 200, 131);
+	color: rgb(0, 0, 0);
 }
-
+.pdf
+{
+	margin-top:150px;
+}
+.center
+{
+	text-align: center;
+}
 
