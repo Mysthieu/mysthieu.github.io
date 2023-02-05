@@ -1,0 +1,1 @@
+Attention les cookies doivent être activées sur votre navigateur pour le bon fonctionnement du site.
