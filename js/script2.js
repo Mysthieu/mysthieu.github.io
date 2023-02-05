@@ -1,3 +1,4 @@
+alert(document.cookie)
 alert(document.cookie.substring(11))
 var instruments = toString(parseInt(document.cookie.substring(11))+1);
 alert(instruments)
